@@ -1,18 +1,12 @@
 <div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maruthu%20B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%7C%20Cybersecurity%20%26%20Ethical%20Hacking%20Enthusiast&descAlignY=62&descSize=16"
-  width="100%"
-/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Maruthu%20B&fontSize=42&fontColor=ffffff&desc=Java%20Backend%20Developer%20%7C%20Cybersecurity%20%26%20Ethical%20Hacking%20Enthusiast&descAlignY=62&descSize=16" width="100%">
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+%2B+Spring+Boot+Backend+Developer;Cybersecurity+%26+Penetration+Testing+Enthusiast;Building+Secure+APIs+%26+Malware+Detection+Tools;Exploring+Blockchain+%26+Network+Security)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+%2B+Spring+Boot+Backend+Developer;Cybersecurity+%26+Penetration+Testing+Enthusiast;Building+Secure+APIs+%26+Malware+Detection+Tools;Exploring+Blockchain+%26+Network+Security)
 
 </div>
-
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```java
