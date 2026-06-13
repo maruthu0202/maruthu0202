@@ -1,4 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maruthu%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%7C%20Cybersecurity%20%26%20Ethical%20Hacking%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maruthu%20B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%7C%20Cybersecurity%20%26%20Ethical%20Hacking%20Enthusiast&descAlignY=62&descSize=16"
+  width="100%"
+/>
+
+</div>
 
 <div align="center">
 
