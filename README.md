@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+%2B+Spring+Boot+Backend+Developer;Cybersecurity+%26+Penetration+Testing+Enthusiast;Building+Secure+APIs+%26+Malware+Detection+Tools;Exploring+Blockchain+%26+Network+Security)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+%2B+Spring+Boot+Backend+Developer;Cybersecurity+%26+Penetration+Testing+Enthusiast;Building+Secure+APIs+%26+Malware+Detection+Tools;Exploring+Blockchain+%26+Network+Security">
 
 </div>
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
