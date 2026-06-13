@@ -80,24 +80,24 @@ public class Maruthu {
 
 <div align="center">
 
-<a href="https://github.com/maruthu2456">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maruthu2456&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/maruthu0202">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maruthu0202&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/maruthu2456">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu2456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/maruthu0202">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu0202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
 
 <div align="center">
 
-![Streak Stats](https://streak-stats.demolab.com?user=maruthu2456&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
+![Streak Stats](https://streak-stats.demolab.com?user=maruthu0202&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maruthu2456&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maruthu0202&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
 
@@ -105,7 +105,7 @@ public class Maruthu {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=maruthu2456&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=maruthu0202&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
 
 </div>
 
@@ -130,9 +130,9 @@ public class Maruthu {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Java Malware Detector](https://github.com/maruthu2456)** | Java, VirusTotal API, SHA-256, MD5 | Generates SHA-256/MD5 fingerprints, integrates VirusTotal API across multiple AV engines, performs entropy & suspicious-string analysis, and outputs an automated risk-based threat score |
-| **[Blockchain-Based Secure E-Voting System](https://github.com/maruthu2456)** | Blockchain, SHA-256, RFID, Biometrics, Java | RFID + biometric multi-factor voter verification, SHA-256 vote integrity hashing, private blockchain ledger with hash chaining, offline-capable architecture preventing double voting |
-| **[Bookstore Management System](https://github.com/maruthu2456)** | Spring Boot, Java, MySQL, JWT, Docker | JWT-secured RESTful backend with full CRUD for books/users/orders, pagination & input validation, Dockerized and tested via Postman |
+| **[Java Malware Detector](https://github.com/maruthu0202)** | Java, VirusTotal API, SHA-256, MD5 | Generates SHA-256/MD5 fingerprints, integrates VirusTotal API across multiple AV engines, performs entropy & suspicious-string analysis, and outputs an automated risk-based threat score |
+| **[Blockchain-Based Secure E-Voting System](https://github.com/maruthu0202)** | Blockchain, SHA-256, RFID, Biometrics, Java | RFID + biometric multi-factor voter verification, SHA-256 vote integrity hashing, private blockchain ledger with hash chaining, offline-capable architecture preventing double voting |
+| **[Bookstore Management System](https://github.com/maruthu0202)** | Spring Boot, Java, MySQL, JWT, Docker | JWT-secured RESTful backend with full CRUD for books/users/orders, pagination & input validation, Dockerized and tested via Postman |
 
 </div>
 
@@ -161,16 +161,4 @@ public class Maruthu {
 
 </div>
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maruthu2456@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maruthu2456)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maruthu2456)
-
-![Profile Views](https://komarev.com/ghpvc/?username=maruthu2456&color=70a5fd&style=flat-square)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+## 📚 Currently Learning
